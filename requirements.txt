@@ -1,0 +1,14 @@
+click
+Flask
+Flask-Cors
+Jinja2
+joblib
+numpy
+pandas
+pickle-mixin
+pytz
+scikit-learn
+scipy
+six==1.15.0
+threadpoolctl==2.1.0
+Werkzeug==1.0.1
